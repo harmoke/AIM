@@ -1,6 +1,6 @@
 # AIM: Adaptive Inertial Method
 
-AIM (Adaptive Inertial Method) is the numerical experiment component for the paper ["Adaptive Inertial Methods for Nonconvex Optimization"](https://www.arxiv.org/abs/2505.15114). This repository implements and benchmarks all the adaptive inertial optimization methods discussed in the paper, providing a framework for reproducible experiments and further research.
+AIM (Adaptive Inertial Method) is the numerical experiment component for the paper ["Adaptive Inertial Methods"](https://www.arxiv.org/abs/2505.15114). This repository implements and benchmarks all the adaptive inertial optimization methods discussed in the paper, providing a framework for reproducible experiments and further research.
 
 ## Project Overview
 
