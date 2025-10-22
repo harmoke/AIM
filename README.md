@@ -104,7 +104,7 @@ If you use this code, please cite the paper:
 ```
 @article{AIM2025,
   title={Adaptive Inertial Methods for Nonconvex Optimization},
-  author={Your Authors},
+  author={Long, Han and He, Bingsheng and Ye, Yinyu and Zhang, Jiheng},
   journal={arXiv preprint arXiv:2505.15114},
   year={2025}
 }
